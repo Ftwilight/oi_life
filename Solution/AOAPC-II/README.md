@@ -10,7 +10,7 @@
 
 ## Chapter 3. Arrays and Strings
 
-#### Example (Finished)
+#### Example **(Finished)**
 
 1. UVa272 - TEX Quotes
 
@@ -27,3 +27,4 @@
 
 #### Exercises
 
+1. UVa1585 - Score
