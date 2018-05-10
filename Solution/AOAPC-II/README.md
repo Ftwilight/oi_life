@@ -25,6 +25,26 @@
 6. UVa1584 - Circual Sequence
 
 
-#### Exercises
+#### Exercises **(To be continue)**
 
 1. UVa1585 - Score
+
+## Chapter 4. Functions and Recursion
+
+#### Example **(To be continue)**
+
+## Chapter 5. C++ and STL 
+
+## Chapter 6. Data Structures 
+
+## Chapter 7. Brute Force 
+
+## Chapter 8. Algorithm Design 
+
+## Chapter 9. Dynamic Programming 
+
+## Chapter 10. Maths 
+
+## Chapter 11. Graph Theory 
+
+## Chapter 12. Advanced Topics 
