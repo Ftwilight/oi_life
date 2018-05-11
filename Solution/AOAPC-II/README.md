@@ -33,6 +33,14 @@
 
 #### Example **(To be continue)**
 
+1. UVa1339 - Ancient Cipher
+
+2. UVa489 Hangman Judge
+
+3. UVa133 The Dole Queue
+
+4. UVa213 Message Decoding
+
 ## Chapter 5. C++ and STL 
 
 ## Chapter 6. Data Structures 
