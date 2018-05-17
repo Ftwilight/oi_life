@@ -10,7 +10,7 @@
 
 ## Chapter 3. Arrays and Strings
 
-#### Example **(Finished)**
+##### Example **(Finished)**
 
 1. UVa272 - TEX Quotes
 
@@ -25,13 +25,13 @@
 6. UVa1584 - Circual Sequence
 
 
-#### Exercises **(To be continue)**
+##### Exercises
 
 1. UVa1585 - Score
 
 ## Chapter 4. Functions and Recursion
 
-#### Example **(To be continue)**
+##### Example
 
 1. UVa1339 - Ancient Cipher
 
@@ -42,6 +42,17 @@
 4. UVa213 Message Decoding
 
 ## Chapter 5. C++ and STL 
+
+##### Example
+
+1. Uva10474 - Where is the Marble
+2. UVa101 - Rhe Blocks Problem
+3. UVa10815 - Andy's First Dictionary
+4. UVa156 - Ananagrams
+5. UVa12096 - The SetStack Computer
+6. UVa540 - Team Queue
+7. UVa136 - Ugly Numbers
+8. UVa400 - Unix Ls
 
 ## Chapter 6. Data Structures 
 
