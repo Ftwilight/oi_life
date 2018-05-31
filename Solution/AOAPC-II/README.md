@@ -56,6 +56,24 @@
 
 ## Chapter 6. Data Structures 
 
+##### Example
+
+1. ​
+2. UVa514 - Rails
+3. UVa442 - Matrix Chain Multiplication
+4. UVa11988 - Broken Keyboard (a.k.a. Beiju Text)
+5. UVa12657 - Boxes in a Line
+6. UVa679 - Dropping Balls
+7. UVa122 - Trees on the level
+8. UVa548 - Tree
+9. UVa839 - Not so Mobile
+10. UVa699 - The Falling Leaves
+11. UVa297 - Quadtrees
+12. UVa572 - Oil Deposits
+13. UVa1103 - Ancient Message
+14. UVa816 - Abbott's Revenge
+15. UVa10305 - Ordering Tasks
+
 ## Chapter 7. Brute Force 
 
 ## Chapter 8. Algorithm Design 
