@@ -145,7 +145,7 @@
 > 5. - [x] UVA 129 Krypton Factor
 > 6. - [x] UVA 140 Bandwidth
 > 7. - [ ] UVA 1354 Mobile Computing
-> 8. - [ ] UVA 10603 Fill
+> 8. - [x] UVA 10603 Fill
 > 9. - [ ] UVA 1601 The Morning after Halloween
 > 10. - [ ] UVA 11212 Editing a Book
 > 11. - [ ] UVA 12325 Zombie's Treasure Chest
