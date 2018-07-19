@@ -148,8 +148,8 @@
 > 8. - [x] UVA 10603 Fill
 > 9. - [ ] UVA 1601 The Morning after Halloween
 > 10. - [x] UVA 11212 Editing a Book
-> 11. - [ ] UVA 12325 Zombie's Treasure Chest
-> 12. - [ ] UVA 1374 Power Calculus
+> 11. - [x] UVA 12325 Zombie's Treasure Chest
+> 12. - [x] UVA 1374 Power Calculus
 > 13. - [ ] UVA 1602 Lattice Animals
 > 14. - [ ] UVA 1603 Square Destroyer
 
