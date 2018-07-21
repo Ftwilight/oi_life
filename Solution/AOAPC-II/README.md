@@ -180,11 +180,11 @@
 
 > 1. - [ ] UVA 120 Stacks of Flapjacks
 > 2. - [ ] UVA 1605 Building for UN
-> 3. - [ ] UVA 1152 4 Values whose Sum is 0
-> 4. - [ ] UVA 11134 Fabled Rooks
-> 5. - [ ] UVA 11054 Wine trading in Gergovia
+> 3. - [x] UVA 1152 4 Values whose Sum is 0
+> 4. - [x] UVA 11134 Fabled Rooks
+> 5. - [x] UVA 11054 Wine trading in Gergovia
 > 6. - [ ] UVA 1606 Amphiphilic Carbon Molecules
-> 7. - [ ] UVA 11572 Unique Snowflakes
+> 7. - [x] UVA 11572 Unique Snowflakes
 > 8. - [ ] UVA 1471 Defense Lines
 > 9. - [ ] UVA 1451 Average
 > 10. - [ ] UVA 714 Copying Books
