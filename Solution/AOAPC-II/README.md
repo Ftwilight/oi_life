@@ -187,8 +187,8 @@
 > 7. - [x] UVA 11572 Unique Snowflakes
 > 8. - [ ] UVA 1471 Defense Lines
 > 9. - [ ] UVA 1451 Average
-> 10. - [ ] UVA 714 Copying Books
-> 11. - [ ] UVA 10954 Add All
+> 10. - [x] UVA 714 Copying Books
+> 11. - [x] UVA 10954 Add All
 > 12. - [ ] UVA 12627 Erratic Expansion
 > 13. - [ ] UVA 11093 Just Finish it up
 > 14. - [ ] UVA 1607 Gates
