@@ -189,8 +189,8 @@
 > 9. - [ ] UVA 1451 Average
 > 10. - [x] UVA 714 Copying Books
 > 11. - [x] UVA 10954 Add All
-> 12. - [ ] UVA 12627 Erratic Expansion
-> 13. - [ ] UVA 11093 Just Finish it up
+> 12. - [x] UVA 12627 Erratic Expansion
+> 13. - [x] UVA 11093 Just Finish it up
 > 14. - [ ] UVA 1607 Gates
 > 15. - [ ] UVA 12174 Shuffle
 > 16. - [ ] UVA 1608 Non-boring sequences
