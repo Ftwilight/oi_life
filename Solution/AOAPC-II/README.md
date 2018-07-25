@@ -233,7 +233,7 @@
 
 ###Examples
 
-> 1. - [ ] UVA 1025 A Spy in the Metro
+> 1. - [x] UVA 1025 A Spy in the Metro
 > 1. - [ ] UVA 437 The Tower of Babylon
 > 1. - [ ] UVA 1347 Tour
 > 1. - [ ] UVA 116 Unidirectional TSP
