@@ -236,7 +236,7 @@
 > 1. - [x] UVA 1025 A Spy in the Metro
 > 1. - [x] UVA 437 The Tower of Babylon
 > 1. - [x] UVA 1347 Tour
-> 1. - [ ] UVA 116 Unidirectional TSP
+> 1. - [x] UVA 116 Unidirectional TSP
 > 1. - [ ] UVA 12563 Jin Ge Jin Qu hao
 > 1. - [ ] UVA 11400 Lighting System Design
 > 1. - [ ] UVA 11584 Partitioning by Palindromes
