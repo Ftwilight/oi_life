@@ -237,7 +237,7 @@
 > 1. - [x] UVA 437 The Tower of Babylon
 > 1. - [x] UVA 1347 Tour
 > 1. - [x] UVA 116 Unidirectional TSP
-> 1. - [ ] UVA 12563 Jin Ge Jin Qu hao
+> 1. - [x] UVA 12563 Jin Ge Jin Qu hao
 > 1. - [ ] UVA 11400 Lighting System Design
 > 1. - [ ] UVA 11584 Partitioning by Palindromes
 > 1. - [ ] UVA 1625 Color Length
