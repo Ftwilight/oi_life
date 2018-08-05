@@ -240,9 +240,9 @@
 > 1. - [x] UVA 12563 Jin Ge Jin Qu hao
 > 1. - [x] UVA 11400 Lighting System Design
 > 1. - [x] UVA 11584 Partitioning by Palindromes
-> 1. - [ ] UVA 1625 Color Length
-> 1. - [ ] UVA 10003 Cutting Sticks
-> 1. - [ ] UVA 1626 Brackets sequence
+> 1. - [x] UVA 1625 Color Length
+> 1. - [x] UVA 10003 Cutting Sticks
+> 1. - [x] UVA 1626 Brackets sequence
 > 1. - [ ] UVA 1331 Minimax Triangulation
 > 1. - [ ] UVA 12186 Another Crisis
 > 1. - [ ] UVA 1220 Party at Hali-Bula
