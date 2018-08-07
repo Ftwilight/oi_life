@@ -8,18 +8,17 @@
 
 ### Example
 
-> 1. - [x] TEX Quotes
 > 2. - [x] UVA 272 TEX Quotes
 > 3. - [x] UVA 10082 WERTYU
 > 4. - [x] UVA 401 Palindromes
 > 5. - [x] UVA 340 Master-Mind Hints
 > 6. - [x] UVA 1583 Digit Generator
-> 7. - [ ] UVA 1584 Circular Sequence
+> 7. - [x] UVA 1584 Circular Sequence
 
 ###Exercise
 
-> 1. - [x] UVA 1585 Score
-> 2. - [ ] UVA 1586 Molar mass
+> 1. - [ ] UVA 1585 Score
+> 2. - [x] UVA 1586 Molar mass
 > 3. - [ ] UVA 1225 Digit Counting
 > 4. - [ ] UVA 455 Periodic Strings
 > 5. - [ ] UVA 227 Puzzle
@@ -105,7 +104,7 @@
 > 9. - [x] UVA 839 Not so Mobile
 > 10. - [x] UVA 699 The Falling Leaves
 > 11. - [x] UVA 297 Quadtrees
-> 12. - [ ] UVA 572 Oil Deposits
+> 12. - [x] UVA 572 Oil Deposits
 > 13. - [x] UVA 1103 Ancient Messages
 > 14. - [x] UVA 816 Abbott's Revenge
 > 15. - [x] UVA 10305 Ordering Tasks
@@ -150,7 +149,7 @@
 > 10. - [x] UVA 11212 Editing a Book
 > 11. - [x] UVA 12325 Zombie's Treasure Chest
 > 12. - [x] UVA 1374 Power Calculus
-> 13. - [ ] UVA 1602 Lattice Animals
+> 13. - [x] UVA 1602 Lattice Animals
 > 14. - [ ] UVA 1603 Square Destroyer
 
 ###Exercises
@@ -244,7 +243,7 @@
 > 1. - [x] UVA 10003 Cutting Sticks
 > 1. - [x] UVA 1626 Brackets sequence
 > 1. - [ ] UVA 1331 Minimax Triangulation
-> 1. - [ ] UVA 12186 Another Crisis
+> 1. - [x] UVA 12186 Another Crisis
 > 1. - [ ] UVA 1220 Party at Hali-Bula
 > 1. - [ ] UVA 1218 Perfect Service
 > 1. - [ ] UVA 10817 Headmaster's Headache
