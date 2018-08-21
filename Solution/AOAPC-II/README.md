@@ -244,7 +244,7 @@
 > 1. - [x] UVA 1626 Brackets sequence
 > 1. - [ ] UVA 1331 Minimax Triangulation
 > 1. - [x] UVA 12186 Another Crisis
-> 1. - [ ] UVA 1220 Party at Hali-Bula
+> 1. - [x] UVA 1220 Party at Hali-Bula
 > 1. - [ ] UVA 1218 Perfect Service
 > 1. - [ ] UVA 10817 Headmaster's Headache
 > 1. - [ ] UVA 1252 Twenty Questions
