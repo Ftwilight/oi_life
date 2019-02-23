@@ -20,7 +20,7 @@ int extract(int x)
 
 int main()
 {
-    freopen("data.in", "r", stdin);
+    // freopen("data.in", "r", stdin);
     int n;
     scanf("%d", &n);
     int last = 1;

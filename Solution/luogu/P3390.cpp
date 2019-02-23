@@ -37,7 +37,7 @@ inline void fast()
 
 int main()
 {
-    freopen("data.in", "r", stdin);
+    // freopen("data.in", "r", stdin);
     std::ios::sync_with_stdio(false);
 
     cin >>n >>k;

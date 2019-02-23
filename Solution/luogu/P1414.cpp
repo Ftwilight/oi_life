@@ -9,7 +9,7 @@ int busket[INF+1];
 
 int main()
 {
-    freopen("data.in", "r", stdin);
+    // freopen("data.in", "r", stdin);
     int n, t, ans=0;
     scanf("%d", &n);
     for(int i = 0; i < n; ++i)
